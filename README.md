@@ -6,24 +6,16 @@ EAST is a class where you really get to know your classmates and the community a
 
 Need a tour? Go to this link for help:https://vizor.io/edit/MTvrKKa5ckCa
 
-```markdown
-Syntax highlighted code block
-
-EAST WHAT DO I DO?
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## EAST WHAT DO I DO?
+1. Listen to Ms. Rogers
+2. Ask Google 
+3. Have Fun!
 
 Now all you have to do is get to work
 
 ### Need Grown-Up Help?
 
-This page was brought to you by Mrs. Rogers
+Ask Ms. Rogers
 
 ### Support or Contact
 
