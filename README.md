@@ -1,12 +1,10 @@
 ## Welcome to EAST
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/oxeme" ></script>
-You can use the [editor on GitHub](https://github.com/Johndavidross/askgoogle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EAST is a class where you really get to know your classmates and the community around you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What Is It?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Need a tour? Go to this link for help:https://vizor.io/edit/MTvrKKa5ckCa
 
 ```markdown
 Syntax highlighted code block
