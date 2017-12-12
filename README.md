@@ -6,7 +6,7 @@ EAST is a class where you really get to know your classmates and the community a
 
 Need a tour? Go to this link for help:https://vizor.io/edit/MTvrKKa5ckCa
 
-## EAST WHAT DO I DO?
+### EAST WHAT DO I DO?
 1. Listen to Ms. Rogers
 2. Ask Google 
 3. Have Fun!
