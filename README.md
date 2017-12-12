@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to EAST
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/oxeme" ></script>
 You can use the [editor on GitHub](https://github.com/Johndavidross/askgoogle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Welcome New Comers
+EAST WHAT DO I DO?
 ## Header 2
 ### Header 3
 
